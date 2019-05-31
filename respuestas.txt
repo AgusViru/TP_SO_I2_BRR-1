@@ -1,0 +1,6 @@
+1. Usamos el comando git remote para asignarle un nombre y referenciarlo facilmente, luego usamos fetch ara recuperar los 
+datos del repositorio, un merge para fusionar las ramas y por ultimo un push para subir los cambios.
+
+2.Si se puede, solo debemos cambiar el url del git remote
+3.Si se puede, solo debemos cambiar el url del git remote
+4.No se pierden
